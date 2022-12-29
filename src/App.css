@@ -1,0 +1,16 @@
+*{
+  text-align: center;
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  margin-left: 38.5%;
+  padding: 0.15%;
+  width: 20%;
+}
+#butt{
+  margin-left: auto;
+}
+ul{
+  list-style-type:circle
+}
